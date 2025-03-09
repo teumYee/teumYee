@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![AWS Cloud Clubs Infrastructure Camper](https://www.credly.com/badges/a14e9348-a6ba-4194-ad1d-a7eed85cc0a9)
+![AWS Cloud Clubs Infrastructure Camper](https://images.credly.com/size/680x680/images/8cfd22ec-6218-4afc-b58c-07fc62cbc415/image.png)
 
 <!--
 **teumYee/teumYee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
